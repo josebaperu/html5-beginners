@@ -12,7 +12,8 @@ Environment Setup (required):
 
 
 Project: (using terminal-mac or CMD-windows)
-- execute/type :  yarn run dev
+- install dependencies : yarn install
+- run project : yarn run dev
 - open in your browser: http://localhost:3000 
 
 
