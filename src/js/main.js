@@ -1,4 +1,5 @@
 import '@/css/styles.css'
+import '@/scss/styles.scss'
 import javascriptLogo from '@/img/javascript-logo.svg'
 import viteLogo from '@/img/vite.svg'
 
